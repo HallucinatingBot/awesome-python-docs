@@ -43,3 +43,4 @@ This repository highlights Python projects that prioritize quality documentation
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 * [pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 * [celery](https://github.com/celery/celery) - Distributed Task Queue
+* [marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
